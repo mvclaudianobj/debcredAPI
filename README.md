@@ -34,5 +34,14 @@ A API oferece os seguintes endpoints:
 ## Instruções de Execução
 - Crie um arquivo .env dentro do diretório do projeto com os parametros necessários, conforme exemplo env.example
 - Dentro do diretório do projeto execute: npm start
-- Para executar em modo daemon instale o forever: "npm install -g forever" e execute: forever start -c "npm start" ./
+- Para executar em modo daemon instale o forever: 'npm install -g forever' e execute: 'forever start -c "npm start" ./'
+
+### Acessando a documentação da API
+O projeto foi escrito usando a documentação interativa do swagger. Para acessar, execute a aplicação acesse: https://debcredapi.devsolutions.info/docs/
+
+## License
+
+This project is under the MIT license. See the [LICENSE](https://github.com/mvclaudianobj/debcredAPI/blob/main/LICENSE) for more information.
+
+---
 
