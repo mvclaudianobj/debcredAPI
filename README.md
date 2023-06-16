@@ -10,9 +10,9 @@ A API oferece os seguintes endpoints:
 
 ## Diagramas
 
-![](https://github.com/mvclaudianobj/debcredAPI/blob/master/tmp/1.png)
+![](https://github.com/mvclaudianobj/debcredAPI/blob/main/img/1.png)
 
-![](https://github.com/mvclaudianobj/debcredAPI/blob/master/tmp/2.png)
+![](https://github.com/mvclaudianobj/debcredAPI/blob/main/img/2.png)
 
 ## Tecnologias
 - Node.js v10+
