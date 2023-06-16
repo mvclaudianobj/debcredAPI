@@ -8,6 +8,12 @@ A API oferece os seguintes endpoints:
 - Criar transações de Débito e  Crédito
 - Visualizar as transações do usuário
 
+## Diagramas
+
+![](https://github.com/mvclaudianobj/debcredAPI/blob/master/tmp/1.png)
+
+![](https://github.com/mvclaudianobj/debcredAPI/blob/master/tmp/2.png)
+
 ## Tecnologias
 - Node.js v10+
 - Express
